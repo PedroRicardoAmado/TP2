@@ -33,7 +33,7 @@ def guarda_as_listas_em_ficheiros(lista_de_veiculos, lista_de_clientes, lista_de
         print("Gravação cancelada...")
 
 
-def guarda_em_ficheiro(nome_do_ficheiro, dados)
+def guarda_em_ficheiro(nome_do_ficheiro, dados):
     """Guarda os dados recebidos num ficheiro
 
     :param nome_do_ficheiro: nome do ficheiro onde vai guardar os dados
